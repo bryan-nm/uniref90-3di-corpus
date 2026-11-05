@@ -1,0 +1,11 @@
+# Generated data and structures stay out of the repo.
+work/
+*.fasta
+*.tsv
+*.index
+*.lookup
+*.gz
+*.pdb
+*.cif
+*.log
+__pycache__/
